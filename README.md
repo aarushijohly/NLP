@@ -1,3 +1,4 @@
 # NLP or Language AI
 Subfield of AI that fouses on developing technologies capable of understanding, processing and generating human language. Example: ChatGPT
-Word-2-Vec: Generates word embeddings by looking at which other words they tend to appear next to in a given sentence.
+
+RNN, LSTM and Gated RNN have been firmly established as state of the art approaches in sequence modeling and transduction problems such as language modeling and machine translations.
